@@ -1,0 +1,6 @@
+# Join and leave messages
+
+firstjoin_message: '&a<player> &7has joined the server for the first time!'
+join_message: '&a<player> &7has joined the server!'
+leave_message: '&a<player> &7has left the server!'
+reload_message: '&lRELOAD COMPLETE'

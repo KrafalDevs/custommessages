@@ -1,0 +1,10 @@
+name: CustomMessages
+version: 1.0
+author: KrafalDevs
+main: me.krafal.joinmessages.Main
+description: ne
+
+commands:
+    ssreload:
+       usage: /<command>
+       description: reload config
